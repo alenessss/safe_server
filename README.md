@@ -18,11 +18,13 @@
    python3 -m venv venv
 
 4. Активируйте виртуальное окружение:
-
-На Windows:
-   ```bash
-   venv\Scripts\activate
-
 На MacOS/Linux:
    ```bash
    source venv/bin/activate
+
+5. Запустите сервер:
+
+   ```bash
+   python safe_server.py
+
+Откройте браузер и перейдите по адресу http://127.0.0.1:5000/.
