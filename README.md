@@ -14,11 +14,10 @@
    cd safe_server
 
 2. Создайте виртуальное окружение:
+   ```bash
+   python3 -m venv venv
 
-```bash
-python3 -m venv venv
-
-3. Активируйте виртуальное окружение:
+4. Активируйте виртуальное окружение:
 
 На Windows:
 ```bash
