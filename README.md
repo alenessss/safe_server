@@ -58,3 +58,5 @@ python3 sql.py
 python3 sql.py
 ```
 [![asciicast](https://asciinema.org/a/EpNH2NZtP0TZgCuQXXYyVpkB8.svg)](https://asciinema.org/a/EpNH2NZtP0TZgCuQXXYyVpkB8)
+
+Данные от тестирование все хранятся в папке Отчеты, которая автоматически создается в корне директории
