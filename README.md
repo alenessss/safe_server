@@ -12,3 +12,18 @@
    ```bash
    git clone git@github.com:alenessss/safe_server.git
    cd safe_server
+
+2. Создайте виртуальное окружение:
+
+```bash
+python3 -m venv venv
+
+3. Активируйте виртуальное окружение:
+
+На Windows:
+```bash
+venv\Scripts\activate
+
+На MacOS/Linux:
+```bash
+source venv/bin/activate
